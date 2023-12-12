@@ -1,1 +1,1 @@
-# ArewaDS-30Days-Of-Pythonn
+# ArewaDS-30Days-Of-Python
